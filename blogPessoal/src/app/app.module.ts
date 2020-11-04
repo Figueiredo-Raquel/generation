@@ -6,17 +6,34 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
+<<<<<<< HEAD
+=======
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { FeedComponent } from './feed/feed.component';
+import { PerfilLateralComponent } from './perfil-lateral/perfil-lateral.component';
+>>>>>>> origin
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     NavbarComponent,
+<<<<<<< HEAD
     FooterComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule
+=======
+    FooterComponent,
+    FeedComponent,
+    PerfilLateralComponent
+  ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    FontAwesomeModule
+>>>>>>> origin
   ],
   providers: [],
   bootstrap: [AppComponent]
