@@ -9,12 +9,8 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
 
-<<<<<<< HEAD
-  ngOnInit(): void {
-=======
   ngOnInit() {
     window.scroll(0,0)
->>>>>>> origin
   }
 
 }
