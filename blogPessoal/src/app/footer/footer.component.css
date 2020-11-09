@@ -1,5 +1,6 @@
 /* footer social icons */
 
+
 ul.social-network {
     list-style: none;
     display: inline;
@@ -14,19 +15,19 @@ ul.social-network {
   }
   
   .faFacebook, .faLinkedin, .faInstagram{
-      color: white;
+      color:  #C13584;
   }
   
   .faFacebook:hover{
-    color: #3b5998;
+    color: #ffccfc;
   }
   
   .faLinkedin:hover{
-  color: #0072b1;
+  color: #ffccfc;
   }
   
   .faInstagram:hover{
-  color: #C13584;
+  color: #ffccfc;
   }
 
 
