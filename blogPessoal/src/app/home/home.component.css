@@ -1,5 +1,5 @@
 .parallax{
-    background-image: url("https://cdn.pixabay.com/photo/2014/08/25/04/51/sakura-426879_960_720.jpg");
+    background-image: url("src/assets/img/logo2.png");
 
     min-height: 500px;
 
@@ -7,4 +7,10 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.but{
+    color: #d978f1;
+    border-color:  #8f728f;
+
 }

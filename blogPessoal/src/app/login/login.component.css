@@ -1,0 +1,10 @@
+.form-control:focus {
+    border-color: #e7c3f0;
+    box-shadow: 0 0 0 0.2rem rgba(200, 156, 189, 0.616);
+} 
+
+.but{
+    color: #d978f1;
+    border-color:  #8f728f;
+
+}
